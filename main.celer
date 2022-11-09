@@ -8,38 +8,54 @@ _project:
   url: ""
   version: 0.1.0
 _route:
-  - (==) 100 koroks .link([object map files]https://drive.google.com/drive/folders/1dqaK4lspJDHXblodFCGWzEexR-6S7ffK?usp=sharing)
+  - (==) 📁 .link([object map files]https://drive.google.com/drive/folders/1dqaK4lspJDHXblodFCGWzEexR-6S7ffK?usp=sharing)
   - Plateau:
-    - 6 Pepper
-    - 1 Pot Lid
-    - 1 Boko Spear
-    - 2 Hylian Shroom
-    - 1 Traveler's Bow
-    - 5 Arrow
+    - _Material<6 Pepper>:
+        hide-icon-on-map: true
+    - _Equipment::Shield<1 Pot Lid>:
+        hide-icon-on-map: true
+    - _Equipment::Weapon<1 Boko Spear>:
+        hide-icon-on-map: true
+    - _Material<2 Hylian Shroom>:
+        hide-icon-on-map: true
+    - _Equipment::Bow<1 Traveler's Bow>:
+        hide-icon-on-map: true
+    - _Equipment::Bow<5 Arrow>:
+        hide-icon-on-map: true
+
     - _Shrine::JaBaij:
         line-color: gray
     - _Shrine::OmanAu
     - _Shrine::OwaDaim
     - _Shrine::KehNamut
     - Paraglider:
+        icon: king
         coord: [-809.33, 263.58, 1964.35]
   - IST:
-    - Fairy:
+    - _Equipment::Weapon<Boko Club>:
+        hide-icon-on-map: true
+        notes: Drop down and either bomb or headshot the boko.
+    - BLSS
+    - _Material<Fairy>:
         coord: [949.19, 138.58, 502.84]
 
-    - 2 Endura Shroom:
+    - WB
+    - _Material<2 Endura Shroom>:
         coord: [865.83, 132.12, 267.64]
-    - 2 Armoranth:
+    - _Material<2 Armoranth>:
         coord: [888.57, 131.91, 220.71]
-    - 1 Woodcutter's Axe:
+    - _Equipment::Weapon<1 Woodcutter's Axe>:
         coord: [903.93, 132.69, 165.23]
-    - Beedle:
+    - _Npc<Beedle>:
         coord: [890.25, 131.28, 157.06]
+    - .link([IST]http://bombch.us/DXpm):
+        icon: tots
+        hide-icon-on-map: true
 
-    - .link([IST]http://bombch.us/DXpm)
   - Koroks:
     - _Korok::Z37:
         line-color: lime
+        notes: Assume 1 WB between koroks unless otherwise noted.
     - _Korok::C51
     - _Korok::C45
     - _Korok::C46
