@@ -8,6 +8,7 @@ _project:
   url: ""
   version: 0.1.0
 _route:
+  - (==) 100 koroks .link([object map files]https://drive.google.com/drive/folders/1dqaK4lspJDHXblodFCGWzEexR-6S7ffK?usp=sharing)
   - Plateau:
     - 6 Pepper
     - 1 Pot Lid
