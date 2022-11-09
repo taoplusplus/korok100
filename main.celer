@@ -46,6 +46,7 @@ _route:
     - _Korok::C23
     - _Korok::C19
     - _Korok::C12
+    - _Korok::C09
     - _Korok::C11
     - _Korok::C18
     - _Korok::C06
@@ -78,7 +79,6 @@ _route:
     - _Korok::R44
     - _Korok::R43
     - _Korok::R42
-    - _Korok::R48
     - _Korok::R49
     - _Korok::C36
     - _Korok::C37
@@ -92,6 +92,8 @@ _route:
     - _Korok::C67
     - _Korok::C68
     - _Korok::C78
+
+    - .dir(E>) + .dir(S)
     - _Korok::C72
     - _Korok::C80
     - _Korok::C79
