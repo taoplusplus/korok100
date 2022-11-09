@@ -1,0 +1,140 @@
+---
+_config: {}
+_project:
+  authors:
+    - ""
+  description: ""
+  name: 100 Koroks
+  url: ""
+  version: 0.1.0
+_route:
+  - Plateau:
+    - 6 Pepper
+    - 1 Pot Lid
+    - 1 Boko Spear
+    - 2 Hylian Shroom
+    - 1 Traveler's Bow
+    - 5 Arrow
+    - _Shrine::JaBaij:
+        line-color: gray
+    - _Shrine::OmanAu
+    - _Shrine::OwaDaim
+    - _Shrine::KehNamut
+    - Paraglider:
+        coord: [-809.33, 263.58, 1964.35]
+  - IST:
+    - Fairy:
+        coord: [949.19, 138.58, 502.84]
+
+    - 2 Endura Shroom:
+        coord: [865.83, 132.12, 267.64]
+    - 2 Armoranth:
+        coord: [888.57, 131.91, 220.71]
+    - 1 Woodcutter's Axe:
+        coord: [903.93, 132.69, 165.23]
+    - Beedle:
+        coord: [890.25, 131.28, 157.06]
+
+    - .link([IST]http://bombch.us/DXpm)
+  - Koroks:
+    - _Korok::Z37:
+        line-color: lime
+    - _Korok::C51
+    - _Korok::C45
+    - _Korok::C46
+    - _Korok::C34
+    - _Korok::C23
+    - _Korok::C19
+    - _Korok::C12
+    - _Korok::C11
+    - _Korok::C18
+    - _Korok::C06
+    - _Korok::C05
+    - _Korok::C04
+    - _Korok::C17
+    - _Korok::C29
+    - _Korok::C28
+    - _Korok::C32
+    - _Korok::C27
+    - _Korok::C35
+    - _Korok::C44
+    - _Korok::C43
+    - _Korok::C42
+    - _Korok::C40
+    - _Korok::C41
+    - _Korok::C31
+    - _Korok::C26
+    - _Korok::C15
+    - _Korok::C03
+    - _Korok::C01
+    - _Korok::C07
+    - _Korok::R16
+    - _Korok::C14
+    - _Korok::C25
+    - _Korok::C30
+    - _Korok::C24
+    - _Korok::R26
+    - _Korok::R27
+    - _Korok::R44
+    - _Korok::R43
+    - _Korok::R42
+    - _Korok::R48
+    - _Korok::R49
+    - _Korok::C36
+    - _Korok::C37
+    - _Korok::R58
+    - _Korok::C52
+    - _Korok::C57
+    - _Korok::C58
+    - _Korok::C59
+    - _Korok::R74
+    - _Korok::C60
+    - _Korok::C67
+    - _Korok::C68
+    - _Korok::C78
+    - _Korok::C72
+    - _Korok::C80
+    - _Korok::C79
+    - _Korok::C74
+    - _Korok::C81
+    - _Korok::C82
+    - _Korok::C69
+    - _Korok::C76
+    - _Korok::C75
+    - _Korok::C64
+    - _Korok::C71
+    - _Korok::C65
+    - _Korok::D14
+    - _Korok::D13
+    - _Korok::D15
+    - _Korok::D16
+    - _Korok::D29
+    - _Korok::D37
+    - _Korok::D28
+    - _Korok::D23
+    - _Korok::D22
+    - _Korok::C84
+    - _Korok::D26
+    - _Korok::D27
+    - _Korok::D34
+    - _Korok::D33
+    - _Korok::D32
+    - _Korok::D31
+    - _Korok::D46
+    - _Korok::L06
+    - _Korok::L02
+    - _Korok::L01
+    - _Korok::L04
+    - _Korok::D45
+    - _Korok::D44
+    - _Korok::P12
+    - _Korok::P02
+    - _Korok::P01
+    - _Korok::P06
+    - _Korok::P10
+    - _Korok::P18
+    - _Korok::L24
+    - _Korok::L25
+    - _Korok::L31
+    - _Korok::L27
+    - _Korok::L26
