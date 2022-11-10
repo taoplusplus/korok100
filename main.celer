@@ -62,8 +62,6 @@ _route:
     - _Korok::C34
     - _Korok::C23
     - _Korok::C19
-    - _Korok::C12
-    - _Korok::C09
     - _Korok::C11
     - _Korok::C18
     - _Korok::C06
@@ -72,8 +70,8 @@ _route:
     - _Korok::C17
     - _Korok::C29
     - _Korok::C28
+    - _Korok::X24
     - _Korok::C32
-    - _Korok::C27
     - _Korok::C35
     - _Korok::C44
     - _Korok::C43
@@ -83,6 +81,7 @@ _route:
     - _Korok::C31
     - _Korok::C26
     - _Korok::C15
+    - _Korok::C20
     - _Korok::C03
     - _Korok::C01
     - _Korok::C07
@@ -149,6 +148,7 @@ _route:
     - _Korok::P12
     - _Korok::P02
     - _Korok::P01
+    - _Korok::P05
     - _Korok::P06
     - _Korok::P10
     - _Korok::P18
