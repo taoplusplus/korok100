@@ -48,7 +48,7 @@ _route:
         coord: [903.93, 132.69, 165.23]
     - _Npc<Beedle>:
         coord: [890.25, 131.28, 157.06]
-    - .link([IST]http://bombch.us/DXpm):
+    - .link([IST]http://bombch.us/DXr9):
         icon: tots
         hide-icon-on-map: true
 
