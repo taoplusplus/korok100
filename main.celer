@@ -62,6 +62,8 @@ _route:
     - _Korok::C34
     - _Korok::C23
     - _Korok::C19
+    - _Korok::C09
+    - _Korok::C12
     - _Korok::C11
     - _Korok::C18
     - _Korok::C06
@@ -70,7 +72,6 @@ _route:
     - _Korok::C17
     - _Korok::C29
     - _Korok::C28
-    - _Korok::X24
     - _Korok::C32
     - _Korok::C35
     - _Korok::C44
@@ -96,6 +97,7 @@ _route:
     - _Korok::R43
     - _Korok::R42
     - _Korok::R49
+    - _Korok::R48
     - _Korok::C36
     - _Korok::C37
     - _Korok::R58
@@ -104,16 +106,12 @@ _route:
     - _Korok::C58
     - _Korok::C59
     - _Korok::R74
-    - _Korok::C60
-    - _Korok::C67
-    - _Korok::C68
+    - _Korok::C66
     - _Korok::C78
-
-    - .dir(E>) + .dir(S)
     - _Korok::C72
-    - _Korok::C80
-    - _Korok::C79
-    - _Korok::C74
+    - _Korok::C60
+    - _Korok::C68
+    - _Korok::C67
     - _Korok::C81
     - _Korok::C82
     - _Korok::C69
@@ -138,11 +136,11 @@ _route:
     - _Korok::D33
     - _Korok::D32
     - _Korok::D31
+    - _Korok::L04
     - _Korok::D46
     - _Korok::L06
     - _Korok::L02
     - _Korok::L01
-    - _Korok::L04
     - _Korok::D45
     - _Korok::D44
     - _Korok::P12
