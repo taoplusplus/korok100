@@ -62,8 +62,6 @@ _route:
     - _Korok::C34
     - _Korok::C23
     - _Korok::C19
-    - _Korok::C09
-    - _Korok::C12
     - _Korok::C11
     - _Korok::C18
     - _Korok::C06
@@ -73,6 +71,7 @@ _route:
     - _Korok::C29
     - _Korok::C28
     - _Korok::C32
+    - _Korok::C27
     - _Korok::C35
     - _Korok::C44
     - _Korok::C43
@@ -153,5 +152,6 @@ _route:
     - _Korok::L24
     - _Korok::L25
     - _Korok::L31
+    - _Korok::L15
     - _Korok::L27
     - _Korok::L26
